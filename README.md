@@ -6,7 +6,9 @@ Blenderの標準機能でオブジェクトを円周上に配置するのは手�
 
 ## 導入方法
 
-ダウンロードしたら、編集 → 設定 → アドオン → インストールからダウンロード先を指定してインストールしてください。その後、TQ Circular ArrayのチェックボックスをONにしてください。
+ダウンロードは[こちら](https://github.com/nnamm/TQ_CircularArray/releases/download/0.1.0/tq_circular-array.py)から。
+
+ダウンロード完了後、編集 → 設定 → アドオン → インストールからダウンロード先を指定してインストールしてください。その後、TQ Circular ArrayのチェックボックスをONにしてください。
 
 ## 動作イメージ
 
@@ -16,4 +18,4 @@ https://www.youtube.com/watch?v=TWSHNTgR7dE&lc
 
 ## フィードバック
 
-フィードバックはGitHubの[Issues](https://github.com/nnamm/TQ_CircularArray/issues)か[Twitter](https://twitter.com/nnammg)のDMでしていただけるとありがたいです。
+フィードバックはGitHubの[Issues](https://github.com/nnamm/TQ_CircularArray/issues)か[TwitterのDM](https://twitter.com/nnammg)でいただけるとありがたいです。
